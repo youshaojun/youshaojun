@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @xiaomingdegit-001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m xiaoming.
+- 👀 I’m interested in Java.
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Java
+- 📫 youshaojunde@163.com
 
 ![github-snake](https://user-images.githubusercontent.com/54707860/194557916-430d9449-77c1-46fb-83c7-7440a4834a66.svg)
 
