@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🤗 欢迎来访
 
+![github-snake](https://user-images.githubusercontent.com/54707860/194557916-430d9449-77c1-46fb-83c7-7440a4834a66.svg)
 
 ### 🧰 语言工具
 
@@ -33,7 +34,6 @@ You can click the Preview link to take a look at your changes.
 [![profile](https://github-profile-trophy.vercel.app/?username=xiaomingdegit-001&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=xiaomingdegit-001&theme=algolia&column=8)
 
 [![](https://activity-graph.herokuapp.com/graph?username=xiaomingdegit-001&theme=github)](https://activity-graph.herokuapp.com/graph?username=xiaomingdegit-001&theme=github)
-![github-snake](https://user-images.githubusercontent.com/54707860/194557916-430d9449-77c1-46fb-83c7-7440a4834a66.svg)
 
 </div>
 
