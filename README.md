@@ -4,10 +4,6 @@
 - 💞️ I’m looking to collaborate on Java
 - 📫 youshaojunde@163.com
 
-[![github-stats](https://github-readme-stats.vercel.app/api?username=xiaomingdegit-001&theme=onedark)](https://github.com/xiaomingdegit-001/xiaomingdegit-001)
-
-![github-snake](https://user-images.githubusercontent.com/54707860/194557916-430d9449-77c1-46fb-83c7-7440a4834a66.svg)
-
 <!---
 xiaomingdegit-001/xiaomingdegit-001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -30,18 +26,15 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 
 
-[![xiaomingdegit-001's github stats](https://github-readme-stats.vercel.app/api?username=xiaomingdegit-001&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api?username=xiaomingdegit-001&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaomingdegit-001&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaomingdegit-001&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
+[![xiaomingdegit-001's github stats](https://github-readme-stats.vercel.app/api?username=xiaomingdegit-001&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api?username=xiaomingdegit-001&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
+  
+[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaomingdegit-001&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaomingdegit-001&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 
 [![profile](https://github-profile-trophy.vercel.app/?username=xiaomingdegit-001&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=xiaomingdegit-001&theme=algolia&column=8)
 
 [![](https://activity-graph.herokuapp.com/graph?username=xiaomingdegit-001&theme=github)](https://activity-graph.herokuapp.com/graph?username=xiaomingdegit-001&theme=github)
+![github-snake](https://user-images.githubusercontent.com/54707860/194557916-430d9449-77c1-46fb-83c7-7440a4834a66.svg)
 
 </div>
 
 </details>
-
-<!--ACTION_START_FLAG:github-followers-->
-<table>
-  </tr>
-</table>
-<!--ACTION_END_FLAG:github-followers-->
