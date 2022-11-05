@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ### 🤗 欢迎来访
 
 <p align="center"> 
-  Visitor count<br>
+  累计访问<br>
   <img src="https://profile-counter.glitch.me/xiaomingdegit-001/count.svg" />
 </p>
 
