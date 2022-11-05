@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <div align="center">
-  ![github-snake](https://user-images.githubusercontent.com/54707860/194557916-430d9449-77c1-46fb-83c7-7440a4834a66.svg)
+  <img src="https://user-images.githubusercontent.com/54707860/194557916-430d9449-77c1-46fb-83c7-7440a4834a66.svg" />
 </div>
 
 ### 🧰 语言工具
