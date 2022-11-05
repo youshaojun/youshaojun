@@ -16,7 +16,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://profile-counter.glitch.me/xiaomingdegit-001/count.svg" />
 </p>
 
-![github-snake](https://user-images.githubusercontent.com/54707860/194557916-430d9449-77c1-46fb-83c7-7440a4834a66.svg)
+<div align="center">
+  ![github-snake](https://user-images.githubusercontent.com/54707860/194557916-430d9449-77c1-46fb-83c7-7440a4834a66.svg)
+</div>
 
 ### 🧰 语言工具
 
