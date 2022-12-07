@@ -38,6 +38,7 @@ You can click the Preview link to take a look at your changes.
   
 <!-- [![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=youshaojun&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=youshaojun&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 -->
+[![](https://activity-graph.herokuapp.com/graph?username=youshaojun&theme=github)](https://activity-graph.herokuapp.com/graph?username=youshaojun&theme=github)
   
 <h2>:sunrise: Practice Project</h2>
 
@@ -54,7 +55,7 @@ You can click the Preview link to take a look at your changes.
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/youshaojun/common-utils"><b>common-utils</b></a></td>
+      <td><a href="https://github.com/youshaojun/common-utils"><b>common-utils - Chinese</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/youshaojun/common-utils?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/youshaojun/common-utils?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/youshaojun/common-utils?style=flat-square&labelColor=343b41"/></td>
@@ -62,7 +63,7 @@ You can click the Preview link to take a look at your changes.
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/youshaojun/es-interview"><b>ECMAScript+ Interview - Chinese</b></a></td>
+      <td><a href="https://github.com/youshaojun/es-interview"><b>java-word - Chinese</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/youshaojun/java-word?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/youshaojun/java-word?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/youshaojun/java-word?style=flat-square&labelColor=343b41"/></td>
@@ -89,8 +90,6 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
 </table>
-
-[![](https://activity-graph.herokuapp.com/graph?username=youshaojun&theme=github)](https://activity-graph.herokuapp.com/graph?username=youshaojun&theme=github)
   
 <!-- ![](https://github-profile-trophy.vercel.app/?username=insoxin&column=4&margin-w=8&margin-h=6) -->
 
