@@ -38,8 +38,7 @@ You can click the Preview link to take a look at your changes.
   
 <!-- [![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=youshaojun&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=youshaojun&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 -->
-[![](https://activity-graph.herokuapp.com/graph?username=youshaojun&theme=github)](https://activity-graph.herokuapp.com/graph?username=youshaojun&theme=github)
-  
+ 
 <h2>:sunrise: Practice Project</h2>
 
 <table cellspacing="0" cellpadding="0" style="border: none;">
@@ -87,6 +86,9 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
 </table>
+  
+ <!-- [![](https://activity-graph.herokuapp.com/graph?username=youshaojun&theme=github)](https://activity-graph.herokuapp.com/graph?username=youshaojun&theme=github)
+  -->
   
 <!-- ![](https://github-profile-trophy.vercel.app/?username=insoxin&column=4&margin-w=8&margin-h=6) -->
 
