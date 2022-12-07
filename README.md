@@ -38,6 +38,39 @@ You can click the Preview link to take a look at your changes.
   
 [![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=youshaojun&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=youshaojun&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
   
+<h2>:sunrise: Practice Project</h2>
+
+<table cellspacing="0" cellpadding="0" style="border: none;">
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+      <td><b>ℹ️ Infos</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/youshaojun/common-utils"><b>common-utils</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/youshaojun/common-utils?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/youshaojun/common-utils?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/youshaojun/common-utils?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/youshaojun/common-utils?style=flat-square&labelColor=343b41"/></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/youshaojun/es-interview"><b>ECMAScript+ Interview - Chinese</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/youshaojun/java-word?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/youshaojun/java-word?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/youshaojun/java-word?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/youshaojun/java-word?style=flat-square&labelColor=343b41"/></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+  
 [![profile](https://github-profile-trophy.vercel.app/?username=youshaojun&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=youshaojun&theme=algolia&column=8)
 
 [![](https://activity-graph.herokuapp.com/graph?username=youshaojun&theme=github)](https://activity-graph.herokuapp.com/graph?username=youshaojun&theme=github)
