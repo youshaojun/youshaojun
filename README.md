@@ -72,9 +72,6 @@ You can click the Preview link to take a look at your changes.
     </tr>
   </tbody>
 </table>
-  
-[![profile](https://github-profile-trophy.vercel.app/?username=youshaojun&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=youshaojun&theme=algolia&column=8)
-  
 
 <table cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
