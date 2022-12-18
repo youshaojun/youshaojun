@@ -11,15 +11,13 @@ You can click the Preview link to take a look at your changes.
 
 ### 🤗 欢迎来访
 
-<div align="center">
-  <div style="float: right">
-   <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" />
-  </div>
-  <div style="float: right">
-  累计访问<br>
-  <img src="https://profile-counter.glitch.me/youshaojun/count.svg" />
-  </div>
+<div style="width:200px; height:auto; float:left; display:inline">
+   <img style="float: left;" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" />
 </div>
+<div style="width:200px; height:auto; float:left; display:inline">
+  <img src="https://profile-counter.glitch.me/youshaojun/count.svg" />
+</div>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/54707860/194557916-430d9449-77c1-46fb-83c7-7440a4834a66.svg" />
@@ -43,7 +41,7 @@ You can click the Preview link to take a look at your changes.
   
 <!-- [![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=youshaojun&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=youshaojun&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 -->
- 
+
 <h2>:sunrise: Practice Project</h2>
 
 <table cellspacing="0" cellpadding="0" style="border: none;">
@@ -91,6 +89,7 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
 </table>
+
   
 [![xiaomingdegit-001's activity](https://activity-graph.herokuapp.com/graph?username=youshaojun&theme=github)](https://activity-graph.herokuapp.com/graph?username=youshaojun&theme=github)
 
