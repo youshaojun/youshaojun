@@ -10,16 +10,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### 🤗 欢迎来访
-
-<div style="width:200px; height:auto; float:left; display:inline">
+<div>
    <img style="float: left;" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" />
 </div>
-<div style="width:200px; height:auto; float:left; display:inline">
-  <img src="https://profile-counter.glitch.me/youshaojun/count.svg" />
-</div>
-
-
 <div align="center">
+  <img src="https://profile-counter.glitch.me/youshaojun/count.svg" />
   <img src="https://user-images.githubusercontent.com/54707860/194557916-430d9449-77c1-46fb-83c7-7440a4834a66.svg" />
 </div>
 
@@ -89,11 +84,10 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
 </table>
-
+  <!--
   
 [![xiaomingdegit-001's activity](https://activity-graph.herokuapp.com/graph?username=youshaojun&theme=github)](https://activity-graph.herokuapp.com/graph?username=youshaojun&theme=github)
 
-  <!--
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=youshaojun&column=4&margin-w=8&margin-h=6" />
   </div>
