@@ -11,10 +11,15 @@ You can click the Preview link to take a look at your changes.
 
 ### 🤗 欢迎来访
 
-<p align="center"> 
+<div align="center">
+  <div style="float: right">
+   <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" />
+  </div>
+  <div style="float: right">
   累计访问<br>
   <img src="https://profile-counter.glitch.me/youshaojun/count.svg" />
-</p>
+  </div>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/54707860/194557916-430d9449-77c1-46fb-83c7-7440a4834a66.svg" />
@@ -87,11 +92,13 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table>
   
- <!-- [![](https://activity-graph.herokuapp.com/graph?username=youshaojun&theme=github)](https://activity-graph.herokuapp.com/graph?username=youshaojun&theme=github)
+[![xiaomingdegit-001's activity](https://activity-graph.herokuapp.com/graph?username=youshaojun&theme=github)](https://activity-graph.herokuapp.com/graph?username=youshaojun&theme=github)
+
+  <!--
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=youshaojun&column=4&margin-w=8&margin-h=6" />
+  </div>
   -->
-  
-<!-- ![](https://github-profile-trophy.vercel.app/?username=insoxin&column=4&margin-w=8&margin-h=6) -->
-
 </div>
-
+  
 </details>
