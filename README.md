@@ -31,12 +31,26 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
+<table cellspacing="0" cellpadding="0" style="border: none; ">
+  <tr>
+    <td>
+      <a href="">
+        <img height="128px" src="https://github-readme-stats.vercel.app/api?username=youshaojun&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+      </a>
+    </td>
+    <td>
+      <a href="">
+        <img height="128px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youshaojun&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![xiaomingdegit-001's github stats](https://github-readme-stats.vercel.app/api?username=youshaojun&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api?username=youshaojun&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
+<!-- [![xiaomingdegit-001's github stats](https://github-readme-stats.vercel.app/api?username=youshaojun&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api?username=youshaojun&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn) -->
   
 <!-- [![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=youshaojun&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=youshaojun&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 -->
-
+<!--
 <h2>:sunrise: Practice Project</h2>
 
 <table cellspacing="0" cellpadding="0" style="border: none;">
@@ -69,21 +83,18 @@ You can click the Preview link to take a look at your changes.
     </tr>
   </tbody>
 </table>
+-->
 
 <table cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
     <td>
       <a href="">
-        <img height="128px" src="https://github-profile-trophy.vercel.app/?username=youshaojun&theme=algolia&column=8" />
-      </a>
-    </td>
-    <td>
-      <a href="">
-        <img height="128px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youshaojun&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+        <img height="128px" src="https://github-profile-trophy.vercel.app/?username=youshaojun&theme=algolia&column=7" />
       </a>
     </td>
   </tr>
 </table>
+
   <!--
   
 [![xiaomingdegit-001's activity](https://activity-graph.herokuapp.com/graph?username=youshaojun&theme=github)](https://activity-graph.herokuapp.com/graph?username=youshaojun&theme=github)
