@@ -14,7 +14,9 @@ You can click the Preview link to take a look at your changes.
    <img style="float: left;" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" />
 </div>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/youshaojun/count.svg" />
+   <img src="https://profile-counter.glitch.me/youshaojun/count.svg" />
+</div>
+<div align="center">
   <img src="https://user-images.githubusercontent.com/54707860/194557916-430d9449-77c1-46fb-83c7-7440a4834a66.svg" />
 </div>
 
